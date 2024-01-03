@@ -1,0 +1,7 @@
+C:\Users\ADMIN\source\repos\BT1\BT2\obj\Debug\BT2.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\BT1\BT2\obj\Debug\BT2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\BT1\BT2\bin\Debug\BT2.exe.config
+C:\Users\ADMIN\source\repos\BT1\BT2\bin\Debug\BT2.exe
+C:\Users\ADMIN\source\repos\BT1\BT2\bin\Debug\BT2.pdb
+C:\Users\ADMIN\source\repos\BT1\BT2\obj\Debug\BT2.exe
+C:\Users\ADMIN\source\repos\BT1\BT2\obj\Debug\BT2.pdb
