@@ -1,0 +1,2 @@
+D:\BT05\BT05\obj\Debug\BT05.csproj.AssemblyReference.cache
+D:\BT05\BT05\obj\Debug\BT05.csproj.CoreCompileInputs.cache
